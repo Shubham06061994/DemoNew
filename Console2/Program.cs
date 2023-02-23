@@ -10,6 +10,7 @@ namespace Console2
             Console.WriteLine("Hello World!");
             Console.WriteLine("VSTSBRANCH2!");
             Console.WriteLine("VSTSBRANCH3!");
+            Console.WriteLine("After the VSTSBRANCH3!");
         }
     }
 }
