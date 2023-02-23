@@ -7,6 +7,9 @@ namespace Console2
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World!");
+            Console.WriteLine("VSTSBRANCH2!");
+            Console.WriteLine("VSTSBRANCH3!");
         }
     }
 }
